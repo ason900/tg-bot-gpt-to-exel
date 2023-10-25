@@ -45,7 +45,7 @@ def handle_text_table(update: Update, context: CallbackContext) -> int:
 
 
 def main() -> None:
-    token = '638077497:AAFH6k0lJx47ZAogh2dCv0TgbriSf_K6bb8'
+    token = 'YOU_TOCKEN'
     updater = Updater(token)
     dispatcher = updater.dispatcher
 
